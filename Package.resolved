@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Argumentable",
+        "repositoryURL": "https://github.com/everlof/Argumentable.git",
+        "state": {
+          "branch": null,
+          "revision": "1c31d7196d34fb11828aee5dc5b1edc96597410f",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "SwiftyBeaver",
+        "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver.git",
+        "state": {
+          "branch": null,
+          "revision": "36858b23737d8480a7bee7ec5407780fab3c0aea",
+          "version": "1.4.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
